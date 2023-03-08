@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Alan 😁
+## Bem-vindo(a) ao perfil do Alan!
 
  <div>
    <a href="https://github.com/AlanAlm">
