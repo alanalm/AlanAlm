@@ -1,7 +1,7 @@
 ## Bem-vindo(a) ao perfil do Alan!
 
 <div align="center">
-  <img width="39%" src="./profile/stats.svg" />
+  <img width="45%" src="./profile/stats.svg" />
   <img width="49%" src="./profile/top-langs.svg" />
 </div>
 
